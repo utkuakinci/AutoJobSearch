@@ -12,6 +12,19 @@ An automated job search tool designed to streamline, track, and optimize your jo
 - **Track:** Keep a single record of the jobs you've found and the applications you've sent.
 - **Optimize:** Use what you've tracked to focus your search on the best opportunities.
 
+## Roadmap
+
+- [ ] **Project setup:** Choose the tech stack, set up the project structure and basic configuration
+- [ ] **Job search:** Collect job listings from multiple platforms through their APIs or by scraping
+- [ ] **Filtering:** Filter listings by keyword, location, remote options, seniority, and salary
+- [ ] **Deduplication:** Detect the same job posted on different platforms
+- [ ] **Application tracking:** Track each application's status (saved, applied, interview, offer, rejected)
+- [ ] **Storage:** Keep listings and application history in a local database
+- [ ] **Notifications:** Send alerts about new matching jobs by email or another channel
+- [ ] **Scheduling:** Run searches automatically at regular intervals
+- [ ] **Matching:** Score how well each job fits your resume and preferences
+- [ ] **Dashboard:** Add a simple interface to browse jobs and see application stats
+
 ## Getting Started
 
 Setup and usage instructions will be added once the first version is available.
